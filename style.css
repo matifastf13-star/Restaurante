@@ -1,0 +1,37 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+#ds{
+    color: rgb(255, 94, 0);
+    text-align: center;
+}
+nav ul{
+background-color: rgb(255, 197, 72);
+padding: 5px;
+ display: flex;
+justify-content: space-around;
+text-decoration: none;
+}
+
+nav ul li{
+    background-color: rgb(255, 48, 48);
+    list-style: none;
+}
+nav ul li a{
+    background-color: rgb(148, 91, 5);
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: rgb(255, 0, 119);
+    padding: 2px;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+}
+#ty{
+    text-align: center;
+}
